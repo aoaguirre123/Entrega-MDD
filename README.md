@@ -59,4 +59,6 @@ Para evaluar el comportamiento del mercado automotriz en este dataset, se entren
 ## Cómo Ejecutar el Proyecto
 
 1. Clonar este repositorio.
-2. Asegurarse de contar con las librerías base de Python: `pandas`, `numpy`, `scikit-learn`, `seab
+2. Asegurarse de contar con las librerías base de Python: `pandas`, `numpy`, `scikit-learn`, `seaborn` y `matplotlib`.
+3. Abrir el archivo `.ipynb` directamente en **Google Colab** o Jupyter Notebook.
+4. Ejecutar de forma secuencial las celdas de carga de datos, análisis exploratorio, binarización y, finalmente, las celdas independientes de modelamiento estadístico.
