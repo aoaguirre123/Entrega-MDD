@@ -1,6 +1,6 @@
 # Análisis y Predicción de Precios de Autos Usados
 
-Este proyecto fue desarrollado como parte de la **2° Evaluación de la asignatura de Minería de Datos**. El objetivo principal es analizar un conjunto de datos del mercado automotriz y construir modelos analíticos capaces de predecir de forma precisa el precio de venta de vehículos usados en función de sus características mecánicas y comerciales.
+Este proyecto fue desarrollado como parte de la **3° Evaluación de la asignatura de Minería de Datos**. El objetivo principal es analizar un conjunto de datos del mercado automotriz y construir modelos analíticos capaces de predecir de forma precisa el precio de venta de vehículos usados en función de sus características mecánicas y comerciales.
 
 **Integrantes del equipo:**
 * Víctor Yáñez
